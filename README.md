@@ -1,7 +1,7 @@
 Сажин Артём КНМО-101
 
-string.txt
+string.txt Файл строки
 
-substring.txt
+substring.txt Файл что искать
 
-bf.js основа
+bf.js JavaScript код
