@@ -4,4 +4,4 @@ string.txt Файл строки
 
 substring.txt Файл что искать
 
-bf.js JavaScript код
+bruteforse.js JavaScript код
